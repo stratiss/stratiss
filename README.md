@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stratiss
 - 👀 I’m interested in Backpacking, Arts , App Development, Machine Learning
-- 🌱 I’m currently learning Django and Korean
+- 🌱 I’m currently learning Laravel and Korean
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: skandalakis.stratis@gmail.com 
 
